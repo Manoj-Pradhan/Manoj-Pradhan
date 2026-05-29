@@ -16,7 +16,6 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **E-Commerce & Startup Projects**
-- 🌱 Learning **Spring Boot, Angular & Microservices**
 - 💻 Love building **Full Stack Web Applications**
 - ⚡ Fun fact: **I turn coffee ☕ into code**
 - 📫 Reach me at: **manojpradhan761@gmail.com**
